@@ -1,2 +1,2 @@
-# Yap-sal-Donem-Projesi
+# Yapisal-Donem-Projesi
 Öğrenci Ders ekleme sistemi, Dosyadan okuma
